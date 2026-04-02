@@ -1,13 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Hola,+soy+Lada+Rodr%C3%ADguez;Desarrolladora+de+software;Construyo+sistemas+para+negocios" />
+<img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&lines=Hola,+soy+Lada+Elizabet+Rodr%C3%ADguez;Desarrolladora+de+software;Full+Stack+Developer;PHP+%26+Laravel+|+JavaScript+%26+React;Web+Applications" />
 
 <br/><br/>
 
-<h1>Lada Elizabet Rodríguez</h1>
-
 <p>
-Desarrolladora de software orientada a aplicaciones web, enfocada en construir sistemas reales para negocios.
+Desarrolladora de software enfocada en el diseño y desarrollo de sistemas web para operaciones comerciales.
 </p>
 
 <p>

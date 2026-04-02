@@ -16,18 +16,6 @@ Argentina 🇦🇷 — Disponible para trabajo remoto y presencial
 
 <hr/>
 
-<p>
-Desarrolladora de software enfocada en el diseño y desarrollo de sistemas web para operaciones comerciales.
-</p>
-
-<p>
-Argentina 🇦🇷 — Disponible para trabajo remoto y presencial
-</p>
-
-</div>
-
-<hr/>
-
 <h2>Sobre mí</h2>
 
 <p>

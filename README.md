@@ -1,19 +1,23 @@
 <div align="center">
 
-<h1>Hola, soy Lada Rodríguez 👋</h1>
+<h1>Hola, soy Lada Elizabet Rodríguez</h1>
 
 <p>
 Desarrolladora de software orientada a aplicaciones web, enfocada en construir sistemas reales para negocios.
+</p>
+
+<p>
+Argentina 🇦🇷 — Disponible para trabajo remoto y presencial
 </p>
 
 </div>
 
 <hr/>
 
-<h2>🧠 Sobre mí</h2>
+<h2>Sobre mí</h2>
 
 <p>
-No me limito a programar. Trabajo entendiendo el ciclo completo del software: desde la lógica del negocio hasta la implementación, pruebas y mejora continua.
+No me limito a programar. Trabajo entendiendo el ciclo completo del software: desde la lógica del negocio hasta el despliegue, pruebas y mejora continua.
 </p>
 
 <p>
@@ -23,18 +27,19 @@ errores de usuario, gestión de excepciones, flujos completos y experiencia del 
 
 ---
 
-<h2>🚀 Qué hago</h2>
+<h2>¿Qué hago?</h2>
 
 <ul>
-<li>Desarrollo sistemas web para negocios (ventas, stock, gestión)</li>
-<li>Diseño lógica backend orientada a seguridad y consistencia</li>
-<li>Construyo interfaces claras y funcionales (UX/UI)</li>
-<li>Analizo necesidades reales antes de programar</li>
+<li>Desarrollo sistemas web orientados a operaciones comerciales</li>
+<li>Diseño la lógica del sistema priorizando consistencia, seguridad y trazabilidad</li>
+<li>Defino y estructuro bases de datos según necesidades reales del negocio</li>
+<li>Diseño interfaces enfocadas en claridad y uso práctico para el usuario final</li>
+<li>Analizo requerimientos y escenarios reales antes de implementar</li>
 </ul>
 
 ---
 
-<h2>🛠️ Tecnologías y herramientas</h2>
+<h2>Tecnologías y herramientas</h2>
 
 <h3>Lenguajes</h3>
 <p>
@@ -53,6 +58,8 @@ errores de usuario, gestión de excepciones, flujos completos y experiencia del 
   <img src="https://img.shields.io/badge/Inertia-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+   <img src="https://img.shields.io/badge/SweetAlert2-FF5A5F?style=for-the-badge&logo=javascript&logoColor=white" alt="SweetAlert2" />
+  <img src="https://img.shields.io/badge/Toast_UI-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="Toast UI" />
 </p>
 
 <h3>Bases de datos</h3>
@@ -90,19 +97,22 @@ errores de usuario, gestión de excepciones, flujos completos y experiencia del 
 </p>
 ---
 
-<h2>📌 Proyecto destacado</h2>
+<h2>Proyecto destacado</h2>
 
-<h3>Sistema de Gestión Comercial (POS + Stock)</h3>
+<h3>Sistema de punto de venta con gestión de stock para insumos informáticos "FormoStock"</h3>
 
 <p>
-Sistema web desarrollado para gestionar ventas, stock y compras en pequeños negocios.
+Sistema web diseñado para la gestión integral de operaciones comerciales, permitiendo registrar ventas, controlar stock y administrar compras de manera digital en pequeños negocios.
 </p>
 
 <ul>
 <li>Registro y seguimiento de ventas</li>
-<li>Control de inventario</li>
-<li>Gestión de órdenes de compra</li>
-<li>Almacenamiento de comprobantes de pago</li>
+<li>Control de inventario con actualización en tiempo real</li>
+<li>Gestión de compras y órdenes a proveedores</li>
+<li>Administración de caja y control de movimientos financieros</li>
+<li>Soporte para múltiples sucursales</li>
+<li>Almacenamiento y validación de comprobantes de pago</li>
+<li>Trazabilidad de operaciones comerciales</li>
 </ul>
 
 <p>
@@ -112,10 +122,19 @@ Diseñado pensando en usuarios reales sin conocimientos técnicos, reemplazando 
 
 ---
 
-<h2>⚙️ Forma de trabajar</h2>
+<h2>Metodología</h2>
 
 <p>
-Trabajo partiendo de una idea clara del problema, desarrollando primero una versión funcional (MVP) y luego iterando con mejoras.
+Trabajo partiendo de una comprensión clara del problema, ya sea a partir de requerimientos del cliente o identificando oportunidades de mejora en un negocio.
+</p>
+
+<p>
+En una primera etapa, analizo las necesidades reales del usuario y del entorno, buscando que la solución no solo funcione, sino que aporte valor tanto a la operación como a la experiencia del negocio. Como primer paso, suelo diseñar y maquetar la interfaz para visualizar el flujo del sistema y la interacción del usuario.
+Esto me permite detectar necesidades, posibles mejoras y casos que no siempre son evidentes desde lo teórico.
+</p>
+
+<p>
+Después planifico la arquitectura del sistema, definiendo tecnologías adecuadas según el contexto, estructura de base de datos, organización del proyecto y consideraciones de seguridad.
 </p>
 
 <p>
@@ -124,7 +143,7 @@ Me enfoco en contemplar casos reales: no solo que el sistema funcione, sino que 
 
 ---
 
-<h2>🎯 Objetivo</h2>
+<h2>Objetivo</h2>
 
 <p>
 Busco mi primera experiencia profesional como desarrolladora, donde pueda seguir creciendo, aportar valor y trabajar en proyectos reales.
@@ -132,7 +151,7 @@ Busco mi primera experiencia profesional como desarrolladora, donde pueda seguir
 
 ---
 
-<h2>💡 Diferencial</h2>
+<h2>Enfoque de trabajo</h2>
 
 <p>
 Construyo sistemas pensando en el negocio y el usuario, no solo en el código.
@@ -144,10 +163,14 @@ No evito problemas complejos: los analizo, los desarmo y los resuelvo.
 
 ---
 
-<h2>📫 Contacto</h2>
+<h2>Contacto</h2>
 
 <p>
-GitHub: <a href="https://github.com/ladardrgz">github.com/ladardrgz</a><br/>
-LinkedIn: <a href="https://linkedin.com/in/ladardrgz">linkedin.com/in/ladardrgz</a><br/>
-Instagram: <a href="https://instagram.com/ladaerz">instagram.com/ladaerz</a>
+  <a href="https://github.com/ladardrgz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/ladardrgz">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>

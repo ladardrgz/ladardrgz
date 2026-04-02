@@ -1,6 +1,10 @@
 <div align="center">
 
-<h1>Hola, soy Lada Elizabet Rodríguez</h1>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Hola,+soy+Lada+Rodr%C3%ADguez;Desarrolladora+de+software;Construyo+sistemas+para+negocios" />
+
+<br/><br/>
+
+<h1>Lada Elizabet Rodríguez</h1>
 
 <p>
 Desarrolladora de software orientada a aplicaciones web, enfocada en construir sistemas reales para negocios.

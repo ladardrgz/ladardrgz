@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&lines=Hola,+soy+Lada+Elizabet+Rodr%C3%ADguez;Desarrolladora+de+software;Full+Stack+Developer;PHP+%26+Laravel+|+JavaScript+%26+React;Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&lines=Hola,+soy+Lada+Elizabet+RodriC3%ADguez;Desarrolladora+de+software;Full+Stack+Developer;PHP+%26+Laravel+|+JavaScript+%26+React;Web+Applications" />
 
 <br/><br/>
 

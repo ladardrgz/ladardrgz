@@ -1,8 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&lines=Hola,+soy+Lada+Elizabet+RodriC3%ADguez;Desarrolladora+de+software;Full+Stack+Developer;PHP+%26+Laravel+|+JavaScript+%26+React;Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&lines=Hola,+soy+Lada+Elizabet+Rodriguez;Desarrolladora+de+software;Full+Stack+Developer;PHP+%26+Laravel+|+JavaScript+%26+React;Web+Applications" />
 
 <br/><br/>
+
+<p>
+Desarrolladora de software enfocada en el diseño y desarrollo de sistemas web, con experiencia en proyectos académicos y prácticas orientadas a operaciones comerciales.
+</p>
+
+<p>
+Argentina 🇦🇷 — Disponible para trabajo remoto y presencial
+</p>
+
+</div>
+
+<hr/>
 
 <p>
 Desarrolladora de software enfocada en el diseño y desarrollo de sistemas web para operaciones comerciales.

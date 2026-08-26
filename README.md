@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&lines=Hola,+soy+Lada+Elizabet+Rodriguez;Desarrolladora+de+software;Full+Stack+Developer;PHP+%26+Laravel+|+JavaScript+%26+React;Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&lines=Hola,+soy+Lada+Elizabet+Rodriguez;Desarrolladora+de+Software;Full+Stack+Developer;Next.js+%26+React+|+Laravel+%26+PHP;Web+Applications" />
 
 <br/><br/>
 
 <p>
-Desarrolladora de software enfocada en el diseño y desarrollo de sistemas web, con experiencia en proyectos académicos y prácticas orientadas a operaciones comerciales.
+Desarrolladora de software enfocada en el diseño y desarrollo de aplicaciones y sistemas web, con experiencia en proyectos académicos, personales y soluciones orientadas a operaciones comerciales.
 </p>
 
 <p>
@@ -14,17 +14,16 @@ Argentina 🇦🇷 — Disponible para trabajo remoto y presencial
 
 </div>
 
-<hr/>
+---
 
 <h2>Sobre mí</h2>
 
 <p>
-No me limito a programar. Trabajo entendiendo el ciclo completo del software: desde la lógica del negocio hasta el despliegue, pruebas y mejora continua.
+No me limito a programar. Trabajo entendiendo el ciclo completo del software: desde el análisis del problema y la lógica del negocio hasta el diseño, desarrollo, gestión de datos, pruebas, despliegue y mejora continua.
 </p>
 
 <p>
-Me enfoco en desarrollar sistemas funcionales, pensando en escenarios reales que suelen ignorarse:
-errores de usuario, gestión de excepciones, flujos completos y experiencia del cliente.
+Me enfoco en desarrollar sistemas funcionales pensando en escenarios reales que suelen ignorarse: errores de usuario, validaciones, gestión de excepciones, seguridad, consistencia de datos, flujos completos y experiencia del usuario.
 </p>
 
 ---
@@ -32,11 +31,14 @@ errores de usuario, gestión de excepciones, flujos completos y experiencia del 
 <h2>¿Qué hago?</h2>
 
 <ul>
-<li>Desarrollo sistemas web orientados a operaciones comerciales</li>
-<li>Diseño la lógica del sistema priorizando consistencia, seguridad y trazabilidad</li>
-<li>Defino y estructuro bases de datos según necesidades reales del negocio</li>
-<li>Diseño interfaces enfocadas en claridad y uso práctico para el usuario final</li>
-<li>Analizo requerimientos y escenarios reales antes de implementar</li>
+<li>Desarrollo aplicaciones y sistemas web full stack.</li>
+<li>Desarrollo interfaces modernas, responsive y orientadas a la experiencia del usuario.</li>
+<li>Diseño lógica de negocio priorizando consistencia, seguridad y trazabilidad.</li>
+<li>Modelo y estructuro bases de datos relacionales según las necesidades del sistema.</li>
+<li>Desarrollo sistemas orientados a operaciones comerciales y gestión administrativa.</li>
+<li>Integro autenticación, gestión de usuarios, roles y permisos.</li>
+<li>Analizo requerimientos y escenarios reales antes de implementar una solución.</li>
+<li>Trabajo sobre el ciclo completo del proyecto, desde la idea inicial hasta su despliegue.</li>
 </ul>
 
 ---
@@ -44,39 +46,69 @@ errores de usuario, gestión de excepciones, flujos completos y experiencia del 
 <h2>Tecnologías y herramientas</h2>
 
 <h3>Lenguajes</h3>
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
 <h3>Frameworks y librerías</h3>
+
 <p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/Inertia-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Inertia-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-   <img src="https://img.shields.io/badge/SweetAlert2-FF5A5F?style=for-the-badge&logo=javascript&logoColor=white" alt="SweetAlert2" />
+</p>
+
+<h3>Bases de datos y Backend as a Service</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+<h3>UI y notificaciones</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/SweetAlert2-FF5A5F?style=for-the-badge&logo=javascript&logoColor=white" alt="SweetAlert2" />
   <img src="https://img.shields.io/badge/Toast_UI-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="Toast UI" />
 </p>
 
-<h3>Bases de datos</h3>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
 <h3>Gestores de paquetes y dependencias</h3>
+
 <p>
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
 </p>
 
+<h3>Despliegue y servicios cloud</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+</p>
+
+<h3>Herramientas de desarrollo</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
+</p>
+
 <h3>Editoras e IDEs</h3>
+
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" alt="Sublime Text" />
@@ -84,6 +116,7 @@ errores de usuario, gestión de excepciones, flujos completos y experiencia del 
 </p>
 
 <h3>Gestión y productividad</h3>
+
 <p>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
@@ -91,6 +124,7 @@ errores de usuario, gestión de excepciones, flujos completos y experiencia del 
 </p>
 
 <h3>Sistemas operativos</h3>
+
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
@@ -98,35 +132,30 @@ errores de usuario, gestión de excepciones, flujos completos y experiencia del 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
-<h3>Herramientas de desarrollo</h3>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
-</p>
 ---
 
 <h2>Proyecto destacado</h2>
 
-<h3>Sistema de punto de venta con gestión de stock para insumos informáticos "FormoStock"</h3>
+<h3>FormoStock — Sistema de punto de venta y gestión de stock</h3>
 
 <p>
 Sistema web diseñado para la gestión integral de operaciones comerciales, permitiendo registrar ventas, controlar stock y administrar compras de manera digital en pequeños negocios.
 </p>
 
 <ul>
-<li>Registro y seguimiento de ventas</li>
-<li>Control de inventario con actualización en tiempo real</li>
-<li>Gestión de compras y órdenes a proveedores</li>
-<li>Administración de caja y control de movimientos financieros</li>
-<li>Soporte para múltiples sucursales</li>
-<li>Almacenamiento y validación de comprobantes de pago</li>
-<li>Trazabilidad de operaciones comerciales</li>
+<li>Registro y seguimiento de ventas.</li>
+<li>Control de inventario con actualización de stock.</li>
+<li>Gestión de compras y órdenes a proveedores.</li>
+<li>Administración de caja y control de movimientos financieros.</li>
+<li>Soporte para múltiples sucursales.</li>
+<li>Almacenamiento y validación de comprobantes de pago.</li>
+<li>Trazabilidad de operaciones comerciales.</li>
+<li>Gestión de usuarios, roles y permisos.</li>
 </ul>
 
 <p>
 <strong>Diferencial:</strong><br/>
-Diseñado pensando en usuarios reales sin conocimientos técnicos, reemplazando procesos en papel por una solución digital clara, funcional y accesible.
+Diseñado pensando en usuarios reales sin conocimientos técnicos, reemplazando procesos manuales por una solución digital clara, funcional y accesible.
 </p>
 
 ---
@@ -134,28 +163,31 @@ Diseñado pensando en usuarios reales sin conocimientos técnicos, reemplazando 
 <h2>Metodología</h2>
 
 <p>
-Trabajo partiendo de una comprensión clara del problema, ya sea a partir de requerimientos del cliente o identificando oportunidades de mejora en un negocio.
+Trabajo partiendo de una comprensión clara del problema, ya sea a partir de requerimientos definidos o identificando oportunidades de mejora dentro de un proceso.
 </p>
 
 <p>
-En una primera etapa, analizo las necesidades reales del usuario y del entorno, buscando que la solución no solo funcione, sino que aporte valor tanto a la operación como a la experiencia del negocio. Como primer paso, suelo diseñar y maquetar la interfaz para visualizar el flujo del sistema y la interacción del usuario.
-Esto me permite detectar necesidades, posibles mejoras y casos que no siempre son evidentes desde lo teórico.
+En una primera etapa analizo las necesidades reales del usuario y del entorno. Busco que la solución no solo funcione técnicamente, sino que aporte valor a la operación y a la experiencia de uso.
 </p>
 
 <p>
-Después planifico la arquitectura del sistema, definiendo tecnologías adecuadas según el contexto, estructura de base de datos, organización del proyecto y consideraciones de seguridad.
+Como parte del proceso, diseño y maqueto las interfaces para visualizar los flujos principales del sistema. Esto me permite detectar necesidades, posibles mejoras, excepciones y casos que no siempre resultan evidentes durante el análisis inicial.
 </p>
 
 <p>
-Me enfoco en contemplar casos reales: no solo que el sistema funcione, sino que responda correctamente a situaciones inesperadas.
+Posteriormente planifico la arquitectura del sistema, seleccionando las tecnologías según el contexto, definiendo la estructura de la base de datos, la organización del proyecto y las consideraciones de seguridad.
+</p>
+
+<p>
+Durante el desarrollo presto especial atención a validaciones, estados, permisos, manejo de errores y situaciones inesperadas, buscando que el sistema mantenga un comportamiento consistente más allá del flujo ideal.
 </p>
 
 ---
 
-<h2>Objetivo</h2>
+<h2>Objetivo profesional</h2>
 
 <p>
-Busco mi primera experiencia profesional como desarrolladora, donde pueda seguir creciendo, aportar valor y trabajar en proyectos reales.
+Busco mi primera experiencia profesional como desarrolladora de software, donde pueda continuar fortaleciendo mis conocimientos, participar en proyectos reales y aportar capacidad de análisis, desarrollo y resolución de problemas.
 </p>
 
 ---
@@ -163,11 +195,11 @@ Busco mi primera experiencia profesional como desarrolladora, donde pueda seguir
 <h2>Enfoque de trabajo</h2>
 
 <p>
-Construyo sistemas pensando en el negocio y el usuario, no solo en el código.
+Construyo sistemas pensando en el negocio, los datos y el usuario, no únicamente en el código.
 </p>
 
 <p>
-No evito problemas complejos: los analizo, los desarmo y los resuelvo.
+Frente a problemas complejos, busco comprenderlos, dividirlos en partes y construir soluciones mantenibles de forma progresiva.
 </p>
 
 ---
@@ -178,7 +210,7 @@ No evito problemas complejos: los analizo, los desarmo y los resuelvo.
   <a href="https://github.com/ladardrgz">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  
+
   <a href="https://linkedin.com/in/ladardrgz">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>

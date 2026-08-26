@@ -15,15 +15,12 @@ Desarrollo **aplicaciones web, sistemas de gestión y soluciones digitales** ori
 <a href="https://github.com/ladardrgz">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://linkedin.com/in/ladardrgz">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 
 </div>
 
 ---
 
-## 👩‍💻 Sobre mí
+## Sobre mí
 
 Soy desarrolladora de software enfocada principalmente en el **desarrollo web full stack**.
 
@@ -35,7 +32,7 @@ Actualmente estoy desarrollando **Nodo**, una plataforma de gestión para servic
 
 ---
 
-## 🚀 Stack principal
+## Stack principal
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -52,7 +49,7 @@ Actualmente estoy desarrollando **Nodo**, una plataforma de gestión para servic
 
 ---
 
-## 🧩 ¿Qué desarrollo?
+## ¿Qué desarrollo?
 
 * Aplicaciones y sistemas web **full stack**.
 * Sistemas de gestión para operaciones comerciales y administrativas.
@@ -67,9 +64,9 @@ Actualmente estoy desarrollando **Nodo**, una plataforma de gestión para servic
 
 ---
 
-# 💼 Proyectos destacados
+# Proyectos destacados
 
-## 🔷 Nodo — Plataforma de gestión para servicios técnicos
+## Nodo — Plataforma de gestión para servicios técnicos
 
 > **Actualmente en desarrollo**
 
@@ -108,7 +105,7 @@ La plataforma está siendo diseñada con una arquitectura **multiusuario y multi
 
 ---
 
-## 🟦 FormoStock — Punto de venta y gestión de inventario
+## FormoStock — Punto de venta y gestión de inventario
 
 Sistema web orientado a centralizar operaciones comerciales de pequeños negocios mediante herramientas de ventas, inventario, compras y administración de caja.
 
@@ -134,7 +131,7 @@ Sistema web orientado a centralizar operaciones comerciales de pequeños negocio
 
 ---
 
-## 🩷 BeautySystem — Gestión y comercio electrónico
+## BeautySystem — Gestión y comercio electrónico
 
 Aplicación web orientada a la comercialización de productos de belleza, combinando funcionalidades de **e-commerce, administración y logística** dentro de un mismo sistema.
 
@@ -161,7 +158,7 @@ Aplicación web orientada a la comercialización de productos de belleza, combin
 
 ---
 
-## 🤖 Desarrollo asistido por IA
+## Desarrollo asistido por IA
 
 Integro herramientas de inteligencia artificial como parte de mi flujo de ingeniería para aumentar la productividad y reducir tiempos de iteración, sin delegar la validación técnica ni la toma de decisiones sobre el resultado final.
 
@@ -175,7 +172,6 @@ Integro herramientas de inteligencia artificial como parte de mi flujo de ingeni
 </p>
 
 Las utilizo principalmente para:
-
 * Investigación técnica.
 * Análisis y descomposición de requerimientos.
 * Diseño y optimización de prompts técnicos.
@@ -192,7 +188,7 @@ Trabajo principalmente con **ChatGPT y OpenAI Codex**, complementando el flujo c
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 <details>
 <summary><strong>Ver stack completo</strong></summary>
@@ -297,7 +293,7 @@ Trabajo principalmente con **ChatGPT y OpenAI Codex**, complementando el flujo c
 
 ---
 
-## 🧠 Cómo trabajo
+## Cómo trabajo
 
 Mi proceso parte de comprender el problema antes de implementar una solución.
 
@@ -321,7 +317,7 @@ Versiono los cambios, configuro el entorno de ejecución y continúo refinando l
 
 ---
 
-## 🎯 Objetivo profesional
+## Objetivo profesional
 
 Busco mi primera experiencia profesional dentro de un equipo de desarrollo donde pueda **aportar capacidad de análisis y construcción de software mientras continúo creciendo técnicamente**.
 
@@ -331,7 +327,7 @@ Me interesan especialmente oportunidades relacionadas con:
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 <div align="center">
 
